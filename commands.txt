@@ -1,5 +1,5 @@
-C:\Users\vinsilva\OneDrive\Cursos e Estudo\Estudos WEB\2021-11 - HCODE JS\projeto-node-client-server\curso-javascript-projeto-usuarios-restapi
-$ node index
+cd C:\Users\vinsilva\OneDrive\Cursos e Estudo\Estudos WEB\2021-11 - HCODE JS\projeto-node-client-server\curso-javascript-projeto-usuarios-restapi
+$node index
 
-C:\Users\vinsilva\OneDrive\Cursos e Estudo\Estudos WEB\2021-11 - HCODE JS\projeto-node-client-server
-$ npm start
+cd C:\Users\vinsilva\OneDrive\Cursos e Estudo\Estudos WEB\2021-11 - HCODE JS\projeto-node-client-server
+npm start
